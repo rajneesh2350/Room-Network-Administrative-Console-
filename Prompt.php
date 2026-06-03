@@ -1,0 +1,6 @@
+1.  Build a front-end booking system for those seats
+2. Make a/Add/edit/delete Facilities (room_facility table to maintain all)  jisme - Laboratories, Library, Indoor Sports Facility, Outdoor Sports Facility, Gymnasium & Fitness Centre, Multiutility Gym, Multipurpose Hall, Assembly Hall, IT-Infrastructure
+Isme Lab me Year-wise list of equipments & items & some photographs rhegi Aur year to year Lab entry register ki pdf file rhe with status, jaise computer lab me kitne computer lab like etc.
+3. Need fully Edit and Delete facility profiles. Deleting a facility safely unlinks any associated rooms and cleans up its data records.
+Year-Wise Item/Register Records Delete (Added): When viewing a facility's year-by-year inventory or register PDFs, admits will now see an explicit trash icon on each card to remove individual entries from the database.
+4. Room Card Linkage Integration: Room cards now show an elegant, clickable badge if linked to a facility. Clicking it jumps straight into the inventory/register viewer for that lab or facility.

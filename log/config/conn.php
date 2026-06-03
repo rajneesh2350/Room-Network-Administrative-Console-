@@ -3,9 +3,9 @@
 error_reporting(1);
 ini_set('display_errors', 1);
 $servername = "localhost";
-$username = "igipess_c41duigipess";
-$password = "MyPassword26November1972";
-$dbname = "igipess_r261172";
+$username = "your-domain-username";
+$password = "your-domain-password";
+$dbname = "your-domain-databasename";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Encryption key (keep this secure!)
